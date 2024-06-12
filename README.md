@@ -8,7 +8,7 @@ O objetivo deste repositório é fornecer materiais educativos aprofundados sobr
 
 ## Papers Disponíveis
 
-1. [Introdução ao Kernel do Windows](papers/Introducao_ao_Kernel_do_Windows.md)
+1. [A-Trip-to-nt!KiSystemCall64: ](https://github.com/lnt0x80/My-Papers/blob/main/Paper-A-trip-to-nt!KiSystemCall64.pdf)
 
 ---
 
