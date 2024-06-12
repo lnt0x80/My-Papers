@@ -1,6 +1,6 @@
 # NtHadouken Papers
 
-Bem-vindo ao repositório de papers do NThadouken! Este projeto é dedicado a compartilhar papers que desenvolvo para ajudar iniciantes a entender os internals do Windows. Este é um projeto que faz parte do NtHadouken.
+Bem-vindo ao repositório de papers do NtHadouken! Este projeto é dedicado a compartilhar papers que desenvolvo para ajudar iniciantes a entender os internals do Windows. Este é um projeto que faz parte do NtHadouken.
 
 ## Objetivo
 
