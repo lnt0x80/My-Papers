@@ -9,9 +9,7 @@ O objetivo deste repositório é fornecer materiais educativos aprofundados sobr
 ## Papers Disponíveis
 
 1. [Introdução ao Kernel do Windows](papers/Introducao_ao_Kernel_do_Windows.md)
-2. [Gerenciamento de Memória no Windows](papers/Gerenciamento_de_Memoria_no_Windows.md)
-3. [Debugging com WinDbg](papers/Debugging_com_WinDbg.md)
 
 ---
 
-Esperamos que você ache esses papers úteis e que eles ajudem você a aprender mais sobre os internals do Windows. Boa sorte em sua jornada!
+Esperamos que você ache esses papers úteis e que eles ajudem você a aprender mais sobre os internals do NT. Boa sorte em sua jornada!
